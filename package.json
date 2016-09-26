@@ -1,0 +1,22 @@
+{
+  "name": "spike-chartjs",
+  "version": "1.0.1",
+  "description": "spiking for chartjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestewartjr/income-test.git"
+  },
+  "author": "james stewart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamestewartjr/income-test/issues"
+  },
+  "homepage": "https://github.com/jamestewartjr/income-test#readme",
+  "dependencies": {
+    "chart.js": "^2.3.0"
+  }
+}
